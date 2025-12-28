@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Sugarsong",
+  "base_artist": "flumpool",
+  "createdAt": "2025-12-28T11:00:35.925895Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sugarsong",
+      "artist": "flumpool",
+      "has_synced": false,
+      "path": "select/pl_01_Sugarsong_flumpool.txt"
+    }
+  ]
+}
